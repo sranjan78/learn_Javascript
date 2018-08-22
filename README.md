@@ -1,2 +1,2 @@
-# learn_javascript
-Javascript Learning
+# learn_Javascript
+My Learning of Javascript
